@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f02491a6-ee08-42ce-9472-588994194485" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/af/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/af/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ar/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ar/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/az/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/az/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/be/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/be/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/bg/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/bg/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/bn/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/bn/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/br/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/br/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/bs/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/bs/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ca/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ca/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/cs/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/cs/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/cy/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/cy/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/da/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/da/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/de/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/de/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/el/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/el/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/en/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/en/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/eo/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/eo/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/es/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/es/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/et/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/et/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/eu/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/eu/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/fa/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/fa/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/fi/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/fi/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/fr/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/fr/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/fy/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/fy/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ga/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ga/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/gd/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/gd/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/gl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/gl/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/he/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/he/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/hi/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/hi/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/hr/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/hr/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/hu/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/hu/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ia/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ia/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/id/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/id/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/io/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/io/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/is/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/is/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/it/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/it/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ja/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ja/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ka/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ka/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/kk/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/kk/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/km/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/km/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/kn/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/kn/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ko/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ko/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ky/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ky/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/lb/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/lb/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/lt/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/lt/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/lv/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/lv/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/mk/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/mk/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ml/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ml/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/mn/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/mn/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/mr/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/mr/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/my/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/my/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/nb/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/nb/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ne/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ne/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/nl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/nl/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/nn/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/nn/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/os/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/os/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/pa/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/pa/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/pl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/pl/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/pt/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/pt/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ro/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ro/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ru/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ru/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/sk/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/sk/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/sl/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/sl/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/sq/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/sq/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/sr/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/sr/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/sv/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/sv/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/sw/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/sw/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ta/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/locale/ta/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/middleware.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/admindocs/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/backends/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/backends/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/backends/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/backends/cached_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/backends/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/backends/file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/backends/signed_cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/ar_DZ/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/ar_DZ/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/ast/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/ast/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/dsb/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/dsb/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/en_AU/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/en_AU/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/en_GB/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/en_GB/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/es_AR/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/es_AR/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/es_CO/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/es_CO/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/es_MX/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/es_MX/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/es_VE/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/es_VE/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/hsb/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/hsb/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/kab/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/kab/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/pt_BR/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/pt_BR/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/sr_Latn/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/sr_Latn/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/udm/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/udm/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/ur/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/uz/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/uz/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/vi/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/vi/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/zh_Hans/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/zh_Hans/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/zh_Hant/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/locale/zh_Hant/LC_MESSAGES/django.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/management/commands/clearsessions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sessions/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sitemaps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sitemaps/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sitemaps/management/commands/ping_google.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sitemaps/templates/sitemap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sitemaps/templates/sitemap_index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvenv/Lib/site-packages/django/contrib/sitemaps/views.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/musicweb/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1083">
+              <caret line="58" column="65" selection-start-line="58" selection-start-column="65" selection-end-line="58" selection-end-column="65" />
+              <folding>
+                <element signature="e#309#333#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/musicweb/urls.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/musicweb/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mainMoudle/tests.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mainMoudle/models.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mainMoudle/apps.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/musicweb/wsgi.py" />
+        <option value="$PROJECT_DIR$/musicweb/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="668" />
+    <option name="y" value="17" />
+    <option name="width" value="1765" />
+    <option name="height" value="1065" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="music" type="b2602c69:ProjectViewProjectNode" />
+              <item name="music" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="music" type="b2602c69:ProjectViewProjectNode" />
+              <item name="music" type="462c0819:PsiDirectoryNode" />
+              <item name="mainMoudle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="music" type="b2602c69:ProjectViewProjectNode" />
+              <item name="music" type="462c0819:PsiDirectoryNode" />
+              <item name="musicweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f02491a6-ee08-42ce-9472-588994194485" name="Default Changelist" comment="" />
+      <created>1604584758405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604584758405</updated>
+      <workItem from="1604584763355" duration="1437000" />
+      <workItem from="1604923695347" duration="985000" />
+      <workItem from="1604927707221" duration="618000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3040000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="722" y="0" width="1412" height="852" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25701624" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32916668" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/musicweb/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="58" column="65" selection-start-line="58" selection-start-column="65" selection-end-line="58" selection-end-column="65" />
+          <folding>
+            <element signature="e#309#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/musicweb/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/musicweb/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainMoudle/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainMoudle/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainMoudle/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
